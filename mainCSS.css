@@ -18,7 +18,7 @@
 }
 
 .star-1 {
-  margin-top: 5%;
+  margin-top: 2%;
   margin-left: 50%;
   animation-duration: 0.9s;
   animation-name: twinkle;
@@ -32,28 +32,28 @@
 }
 
 .star-3 {
-  margin-top: 13%;
-  margin-left: 72%;
+  margin-top: 5%;
+  margin-left: 52%;
   animation-duration: 1.3s;
   animation-name: twinkle;
 }
 
 .star-4 {
-  margin-top: 7%;
-  margin-left: 56%;
+  margin-top: 2%;
+  margin-left: 75%;
   animation-duration: 1.3s;
   animation-name: twinkle;
 }
 
 .star-5 {
-  margin-top: 6%;
+  margin-top: -5%;
   margin-left: 23%;
   animation-duration: 1.3s;
   animation-name: twinkle;
 }
 
 .star-6 {
-  margin-top: 4%;
+  margin-top: -4%;
   margin-left: 17%;
   animation-duration: 1.3s;
   animation-name: twinkle;
@@ -61,7 +61,7 @@
 
 .star-7 {
   margin-top: 5%;
-  margin-left: 25%;
+  margin-left: 85%;
   animation-duration: 1.3s;
   animation-name: twinkle;
 }
